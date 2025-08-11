@@ -15,9 +15,11 @@ title: Ronish BK's Portfolio # This is what shows up in the tab of the browser
 name: Ronish BK
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Aspiring Mechanical Engineer
+Independent, curious, and logical, I thrive on solving complex problems 
+and exploring innovative ideas in machine design and energy systems.
+With a strong academic foundation and hands-on mindset, I’m pursuing a Mechanical Engineering 
+degree at Louisiana Tech University.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
